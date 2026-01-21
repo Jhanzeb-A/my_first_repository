@@ -14,7 +14,5 @@ Here's our todo:
 
 \- \[ ] Make our first commit
 
-\- \[ ] Fix this tpyo
-
-
+\- \[ ] Fix this typo
 
